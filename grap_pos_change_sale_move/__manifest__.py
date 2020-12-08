@@ -16,5 +16,6 @@
         "demo/account_tax.xml",
         "demo/product_product.xml",
     ],
+    "data": ["views/res_company_views.xml"],
     "installable": True,
 }
