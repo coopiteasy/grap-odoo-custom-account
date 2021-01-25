@@ -11,6 +11,6 @@
     "depends": ["point_of_sale"],
     "license": "AGPL-3",
     "demo": ["demo/res_groups.xml"],
-    "data": ["views/res_company_views.xml"],
+    "data": ["views/pos_config_views.xml"],
     "installable": True,
 }
